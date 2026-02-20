@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "CHU-BURA",
+  "base_artist": "KELUN",
+  "createdAt": "2026-02-20T07:59:06.127916Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "CHU-BURA",
+      "artist": "KELUN",
+      "has_synced": false,
+      "path": "select/01_CHU-BURA_KELUN.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "01. Chu-Bura",
+      "artist": "Kelun",
+      "has_synced": false,
+      "path": "select/02_01._Chu-Bura_Kelun.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "10. Chu-Bura",
+      "artist": "Kelun",
+      "has_synced": false,
+      "path": "select/03_10._Chu-Bura_Kelun.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "CHU-BURA",
+      "artist": "KELUN",
+      "has_synced": true,
+      "path": "select/04_CHU-BURA_KELUN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chu‐Bura (Bleach Opening 8)",
+      "artist": "PelleK",
+      "has_synced": false,
+      "path": "select/05_Chu‐Bura_(Bleach_Opening_8)_PelleK.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Chu‐Bura",
+      "artist": "PelleK",
+      "has_synced": false,
+      "path": "select/06_Chu‐Bura_PelleK.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "CHU-BURA (第168-189話 OP)",
+      "artist": "Yuuki Okamoto",
+      "has_synced": true,
+      "path": "select/07_CHU-BURA_(第168-189話_OP)_Yuuki_Okamoto.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "03 CHU-BURA",
+      "artist": "石田雨竜（杉山紀彰）",
+      "has_synced": true,
+      "path": "select/08_03_CHU-BURA_石田雨竜(杉山紀彰).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Chu-bura (ep.168-189 OP)",
+      "artist": "Yuuki Okamoto",
+      "has_synced": false,
+      "path": "select/09_Chu-bura_(ep.168-189_OP)_Yuuki_Okamoto.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Chu-Bura (Bleach Opening 8)",
+      "artist": "PelleK",
+      "has_synced": false,
+      "path": "select/10_Chu-Bura_(Bleach_Opening_8)_PelleK.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CHU-BURA",
+      "artist": "KELUN",
+      "has_synced": false,
+      "path": "select/pl_01_CHU-BURA_KELUN.txt"
+    }
+  ]
+}
